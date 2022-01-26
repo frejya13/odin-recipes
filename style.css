@@ -9,3 +9,21 @@
     text-align: center;
     font-size: 24px;
 }
+#apple-pie{
+    height: auto;
+    width: 600px;
+}
+h2{
+    font-size: 24px;
+    color: rgb(14, 14, 177);
+}
+h3{
+    color: palevioletred;
+}
+li{
+    color: rgb(41, 175, 164);
+}
+#cherry-pie{
+    height: auto;
+    width: 600px;
+}
